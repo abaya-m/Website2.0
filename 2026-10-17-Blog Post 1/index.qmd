@@ -1,0 +1,9 @@
+---
+title: "index"
+desciption: my blog post testing
+author: 
+  - name: Meagan Abaya
+image: lab_graph.png
+format: html
+---
+
