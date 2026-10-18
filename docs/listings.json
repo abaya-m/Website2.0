@@ -2,5 +2,9 @@
   {
     "listing": "/posts/posts.html",
     "items": []
+  },
+  {
+    "listing": "/posts/blog.html",
+    "items": []
   }
 ]
