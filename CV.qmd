@@ -2,14 +2,23 @@
 title: "Curriculum Vitae"
 ---
 
+$$
+53
+$$
+
+```{r}
+1*4
+```
+
+
 BA Economics and Finance University of Winnipeg September 2021 - June 2026
 
-Click [here](files/Resume.pdf)
+Click [here](pdf_docs/Resume.pdf)
 
-#Contact Information
+# Contact Information
 
-#Education
+# Education
 
-#Current Position(s)
+# Current Positions
 
-#Previous Position(s)
+# Previous Positions
